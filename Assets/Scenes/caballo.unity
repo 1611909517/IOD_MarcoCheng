@@ -536,7 +536,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6511361493615813618, guid: fdc34856b25fea949abf465025e4c1be, type: 3}
       propertyPath: m_Name
-      value: Pato
+      value: Duck
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

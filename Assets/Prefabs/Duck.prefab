@@ -340,7 +340,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1182525687238940119}
   m_Layer: 0
-  m_Name: Pato
+  m_Name: Duck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
