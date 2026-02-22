@@ -8,6 +8,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 268627750236685637, guid: fdc34856b25fea949abf465025e4c1be, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 5c5f34eee8410ce4591291a232d20a22, type: 2}
     - target: {fileID: 1182525687238940119, guid: fdc34856b25fea949abf465025e4c1be, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -48,9 +52,29 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1449892492655660617, guid: fdc34856b25fea949abf465025e4c1be, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 5c5f34eee8410ce4591291a232d20a22, type: 2}
+    - target: {fileID: 1508094108597778816, guid: fdc34856b25fea949abf465025e4c1be, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 5c5f34eee8410ce4591291a232d20a22, type: 2}
+    - target: {fileID: 5359226922065862593, guid: fdc34856b25fea949abf465025e4c1be, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 5c5f34eee8410ce4591291a232d20a22, type: 2}
+    - target: {fileID: 5555497063923126955, guid: fdc34856b25fea949abf465025e4c1be, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 5c5f34eee8410ce4591291a232d20a22, type: 2}
+    - target: {fileID: 5827894508411173142, guid: fdc34856b25fea949abf465025e4c1be, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 5c5f34eee8410ce4591291a232d20a22, type: 2}
     - target: {fileID: 6511361493615813618, guid: fdc34856b25fea949abf465025e4c1be, type: 3}
       propertyPath: m_Name
-      value: Pato
+      value: BrownDuck
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
