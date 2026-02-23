@@ -80,6 +80,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GrayDuck
       objectReference: {fileID: 0}
+    - target: {fileID: 7796017936158097507, guid: fdc34856b25fea949abf465025e4c1be, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fa110e0022a7a4442a56667532c3f942, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
